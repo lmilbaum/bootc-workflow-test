@@ -12,10 +12,10 @@
     ami:
       x86_64:
         rhel-9-4: ami-044442bf4326c9933
-        centos-stream-9: ami-08f2fe20b72b2ffa7
+        centos-stream-9: ami-00835addc800f125a
       aarch64:
         rhel-9-4: ami-0eb96688e8d46c2af
-        centos-stream-9: ami-09866c25c2d97b6cc
+        centos-stream-9: ami-021ca14e50b7ff397
     instance_type:
       x86_64:
         "0": t2.medium
